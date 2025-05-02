@@ -13,7 +13,7 @@
 
 ## 📫 연락처 및 링크  
 - 📧 Email: sehn47@dgu.ac.kr
-- 📝 Portfolio: [Notion 링크](https://www.notion.so/SQA-1de91f1c774880f79e12ec01722f3507)
+- 📝 Portfolio: [Notion 링크](https://www.notion.so/SQA-1de91f1c774880f79e12ec01722f3507?pvs=4)
 
  ---
 
