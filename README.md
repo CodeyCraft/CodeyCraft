@@ -28,7 +28,7 @@
 ---
 
 ## 🧰 기술 스택 & 사용 툴  
-- **테스트 툴**: Junit, Selenium, SikuliX, SpotBugs, SonarQube, Open Clover, etc...
+- **테스트 툴**: Junit, Open Clover, Selenium, SikuliX, SpotBugs, SonarQube, ACTS, EasyMock, ADB(Monkey Test)
 - **프로그래밍 언어**: Java, Python
 - **통합 개발 환경**: Eclipse, IntelliJ IDEA, Visual Studio Code
 
